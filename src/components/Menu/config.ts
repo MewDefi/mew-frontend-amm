@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.goosedefi.com/'
+    href: 'https://www.pikachudefi.com/'
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.goosedefi.com/farms'
+    href: 'https://www.pikachudefi.com/farms'
   },
   {
     label: 'Nests',
     icon: 'PoolIcon',
-    href: 'https://www.goosedefi.com/nests'
+    href: 'https://www.pikachudefi.com/nests'
   },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://www.goosedefi.com/lottery'
+  //   href: 'https://www.pikachudefi.com/lottery'
   // },
   {
     label: 'Info',
@@ -46,11 +46,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
+        href: 'https://www.coingecko.com/en/coins/pikachu-finance',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        href: 'https://coinmarketcap.com/currencies/pikachu-finance/',
       },
       {
         label: 'AstroTools',
@@ -64,27 +64,27 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/pikachudefi/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://pikachudefi.gitbook.io/pikachu-finance/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://pikachufinance.medium.com/",
       },
     ],
   },
   {
     label: 'Audit by Hacken',
     icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+    href: 'https://www.pikachudefi.com/files/hackenAudit.pdf',
   },
   {
     label: 'Audit by CertiK',
     icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
+    href: 'https://certik.org/projects/pikachu-finance',
   },
 ]
 
