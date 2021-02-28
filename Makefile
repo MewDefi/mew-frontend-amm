@@ -1,7 +1,7 @@
 all: 
 
 clean:
-	rm -rf build node_modules cypress
+	rm -rf build node_modules
 
 deps:
 	yarn
