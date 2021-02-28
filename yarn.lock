@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@PikachuDefi/goose-uikit":
+"@pancakeswap-libs/uikit@PikachuDefi/pikachu-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/PikachuDefi/goose-uikit/tar.gz/08bde1c790dfab3aa9ad7996a7c420c93809da28"
+  resolved "https://codeload.github.com/PikachuDefi/pikachu-uikit/tar.gz/01bdddaa5bc372d89217b94cffd8221c4dc2703c"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
