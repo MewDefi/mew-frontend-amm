@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@PikachuDefi/pikachu-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/PikachuDefi/pikachu-uikit/tar.gz/1d8ccccc85e260d2c3c5c8aac2c6be01ff02bdde"
+  resolved "https://codeload.github.com/PikachuDefi/pikachu-uikit/tar.gz/19878e43d0860e2e18c1d94ad4249fcaa22b12ff"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
