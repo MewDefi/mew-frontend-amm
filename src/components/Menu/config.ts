@@ -27,7 +27,7 @@ const config: MenuEntry[] = [
     href: 'https://www.pikachudefi.com/farms'
   },
   {
-    label: 'Nests',
+    label: 'Staking',
     icon: 'PoolIcon',
     href: 'https://www.pikachudefi.com/nests'
   },
@@ -42,11 +42,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        href: 'https://pancakeswap.info/token/0xd592dfe9e1b687b1d9dbdacf5b9f0789cc9cd584',
       },
       {
         label: 'BscScan',
-        href: 'https://bscscan.com',
+        href: 'https://bscscan.com/address/0xd592dfe9e1b687b1d9dbdacf5b9f0789cc9cd584',
       },
       // {
       //   label: 'CoinGecko',
