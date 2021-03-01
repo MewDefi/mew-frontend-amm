@@ -45,17 +45,17 @@ const config: MenuEntry[] = [
         href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
       },
       {
-        label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/pikachu-finance',
+        label: 'BscScan',
+        href: 'https://bscscan.com',
       },
-      {
-        label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/pikachu-finance/',
-      },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
-      },
+      // {
+      //   label: 'CoinGecko',
+      //   href: 'https://www.coingecko.com/en/coins/goose-finance',
+      // },
+      // // {
+      //   label: 'CoinMarketCap',
+      //   href: 'https://coinmarketcap.com/currencies/goose-finance/',
+      // },
     ]
   },
   {
@@ -63,29 +63,29 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: "Github",
-        href: "https://github.com/pikachudefi/",
+        label: 'Github',
+        href: 'https://github.com/PikachuDefi/',
       },
       {
-        label: "Docs",
-        href: "https://pikachudefi.gitbook.io/pikachu-finance/",
+        label: 'Wiki',
+        href: 'https://github.com/PikachuDefi/pikachu-contracts/wiki',
       },
-      {
-        label: "Blog",
-        href: "https://pikachufinance.medium.com/",
-      },
+      // {
+      //   label: 'Blog',
+      //   href: 'https://goosefinance.medium.com/',
+      // },
     ],
   },
-  {
-    label: 'Audit by Hacken',
-    icon: 'AuditIcon',
-    href: 'https://www.pikachudefi.com/files/hackenAudit.pdf',
-  },
-  {
-    label: 'Audit by CertiK',
-    icon: 'AuditIcon',
-    href: 'https://certik.org/projects/pikachu-finance',
-  },
+  // {
+  //   label: 'Audit by Hacken',
+  //   icon: 'AuditIcon',
+  //   href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+  // },
+  // {
+  //   label: 'Audit by CertiK',
+  //   icon: 'AuditIcon',
+  //   href: 'https://certik.org/projects/goose-finance',
+  // },
 ]
 
 export default config
