@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.pikachudefi.com/'
+    href: 'https://www.mewdefi.com/'
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.pikachudefi.com/farms'
+    href: 'https://www.mewdefi.com/farms'
   },
   {
     label: 'Staking',
     icon: 'PoolIcon',
-    href: 'https://www.pikachudefi.com/nests'
+    href: 'https://www.mewdefi.com/nests'
   },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://www.pikachudefi.com/lottery'
+  //   href: 'https://www.mewdefi.com/lottery'
   // },
   {
     label: 'Info',
@@ -64,11 +64,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/PikachuDefi/',
+        href: 'https://github.com/MewDefi/',
       },
       {
         label: 'Wiki',
-        href: 'https://github.com/PikachuDefi/pikachu-contracts/wiki',
+        href: 'https://github.com/MewDefi/mew-contracts/wiki',
       },
       // {
       //   label: 'Blog',
