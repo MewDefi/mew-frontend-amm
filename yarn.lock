@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@mewdefi/mew-uikit":
+"@pancakeswap-libs/uikit@MewDefi/mew-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/mewdefi/mew-uikit/tar.gz/430acb21c57c080035dc3b5f111b60ccf33fe221"
+  resolved "https://codeload.github.com/MewDefi/mew-uikit/tar.gz/d2710f270398fba997d6b290158fa2c98726c849"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
